@@ -18,16 +18,19 @@
 ## Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Linked List
@@ -41,5 +44,6 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0199-binary-tree-right-side-view) |
 <!---LeetCode Topics End-->
