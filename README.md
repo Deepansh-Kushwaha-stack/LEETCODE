@@ -15,4 +15,16 @@
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/1189-maximum-number-of-balloons) |
+## Tree
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
