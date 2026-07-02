@@ -14,6 +14,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0020-valid-parentheses) |
 | [1189-maximum-number-of-balloons](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/1189-maximum-number-of-balloons) |
 ## Counting
 |  |
@@ -84,6 +85,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Math
