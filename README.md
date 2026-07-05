@@ -102,4 +102,8 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0496-next-greater-element-i) |
+## Database
+|  |
+| ------- |
+| [1068-product-sales-analysis-i](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/1068-product-sales-analysis-i) |
 <!---LeetCode Topics End-->
