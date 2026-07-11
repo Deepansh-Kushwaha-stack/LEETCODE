@@ -98,6 +98,7 @@
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0039-combination-sum) |
 | [0496-next-greater-element-i](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
@@ -114,4 +115,8 @@
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1661-average-time-of-process-per-machine](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/1661-average-time-of-process-per-machine) |
 | [1934-confirmation-rate](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/1934-confirmation-rate) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
