@@ -27,6 +27,7 @@
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -36,6 +37,7 @@
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -45,6 +47,7 @@
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -140,6 +143,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0139-word-break) |
 | [0300-longest-increasing-subsequence](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
