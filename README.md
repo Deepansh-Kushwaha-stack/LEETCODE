@@ -51,6 +51,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0023-merge-k-sorted-lists) |
+| [0061-rotate-list](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0141-linked-list-cycle) |
@@ -67,6 +68,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0061-rotate-list](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
