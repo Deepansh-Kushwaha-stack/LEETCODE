@@ -76,6 +76,7 @@
 | ------- |
 | [0112-path-sum](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0199-binary-tree-right-side-view) |
+| [0322-coin-change](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0322-coin-change) |
 ## Recursion
 |  |
 | ------- |
@@ -99,6 +100,7 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0039-combination-sum) |
+| [0322-coin-change](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0322-coin-change) |
 | [0496-next-greater-element-i](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
@@ -119,4 +121,8 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0039-combination-sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
