@@ -30,6 +30,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -37,6 +38,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -44,6 +46,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Linked List
 |  |
 | ------- |
@@ -82,6 +85,7 @@
 | [0112-path-sum](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0199-binary-tree-right-side-view) |
 | [0322-coin-change](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0322-coin-change) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Recursion
 |  |
 | ------- |
