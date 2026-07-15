@@ -1,5 +1,23 @@
 class Solution {
     public int gcdOfOddEvenSums(int n) {
-        return n;
+        int oddSum = 0;
+        int evenSum = 0;
+        int odd = 1;
+        int even = 2;
+
+        for (int i = 0; i < n; i++) {
+            oddSum += odd;
+            evenSum += even;
+            odd += 2;
+            even += 2;
+        }
+
+        while (evenSum != 0) {
+            int temp = evenSum;
+            evenSum = oddSum % evenSum;
+            oddSum = temp;
+        }
+
+        return oddSum;
     }
 }
