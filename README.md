@@ -113,6 +113,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0002-add-two-numbers) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Array
 |  |
@@ -180,4 +181,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0023-merge-k-sorted-lists) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
