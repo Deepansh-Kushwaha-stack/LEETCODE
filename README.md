@@ -114,6 +114,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0002-add-two-numbers) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -127,6 +128,7 @@
 | [0322-coin-change](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0322-coin-change) |
 | [0496-next-greater-element-i](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0518-coin-change-ii) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Monotonic Stack
 |  |
@@ -188,6 +190,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
