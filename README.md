@@ -124,6 +124,7 @@
 | [0039-combination-sum](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0039-combination-sum) |
 | [0139-word-break](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0139-word-break) |
 | [0300-longest-increasing-subsequence](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
+| [0303-range-sum-query-immutable](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0303-range-sum-query-immutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0322-coin-change) |
 | [0496-next-greater-element-i](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0496-next-greater-element-i) |
@@ -205,4 +206,12 @@
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0303-range-sum-query-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
