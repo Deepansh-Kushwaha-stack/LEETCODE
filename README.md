@@ -116,6 +116,7 @@
 | [0002-add-two-numbers](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0204-count-primes](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -206,6 +207,7 @@
 ## Sorting
 |  |
 | ------- |
+| [3536-maximum-product-of-two-digits](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
