@@ -115,6 +115,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0204-count-primes](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0204-count-primes) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -133,6 +134,7 @@
 | [0322-coin-change](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0322-coin-change) |
 | [0496-next-greater-element-i](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0518-coin-change-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Monotonic Stack
@@ -207,6 +209,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
