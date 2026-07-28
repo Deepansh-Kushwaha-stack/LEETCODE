@@ -1,14 +1,10 @@
 class Solution {
     public int maxProduct(int[] nums) {
-        int n = nums.length;
-        int max = -1;
-        for(int i=0; i<n; i++){
-            int pro = 0;
-            for(int j=i+1; j<n; j++){
-                pro = (nums[i]-1)*(nums[j]-1);
-                max = Math.max(max,pro);
-            }
+        Arrays.sort(nums);
+        int pro = 1;
+        for(int i = nums.length-1; i>=nums.length-2; i--){    
+            pro *= (nums[i]-1);
         }
-        return max;
+        return pro;
     }
 }
