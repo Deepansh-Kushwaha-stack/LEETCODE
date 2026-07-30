@@ -20,6 +20,7 @@
 | [0020-valid-parentheses](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0139-word-break](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0139-word-break) |
 | [1189-maximum-number-of-balloons](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/1189-maximum-number-of-balloons) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Counting
 |  |
@@ -120,6 +121,7 @@
 | [0204-count-primes](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0204-count-primes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -240,4 +242,8 @@
 |  |
 | ------- |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Greedy
+|  |
+| ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 <!---LeetCode Topics End-->
