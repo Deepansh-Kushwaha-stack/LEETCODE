@@ -13,6 +13,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0496-next-greater-element-i](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [1189-maximum-number-of-balloons](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/1189-maximum-number-of-balloons) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## String
 |  |
@@ -21,11 +22,13 @@
 | [0139-word-break](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0139-word-break) |
 | [1189-maximum-number-of-balloons](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/1189-maximum-number-of-balloons) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Counting
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/1189-maximum-number-of-balloons) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Tree
 |  |
@@ -219,6 +222,7 @@
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
@@ -246,4 +250,5 @@
 |  |
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 <!---LeetCode Topics End-->
