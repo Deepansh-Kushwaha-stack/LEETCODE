@@ -11,6 +11,7 @@
 | [0141-linked-list-cycle](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
+| [0217-contains-duplicate](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [1189-maximum-number-of-balloons](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/1189-maximum-number-of-balloons) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -137,6 +138,7 @@
 | [0039-combination-sum](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0039-combination-sum) |
 | [0139-word-break](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0139-word-break) |
 | [0204-count-primes](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0204-count-primes) |
+| [0217-contains-duplicate](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [0300-longest-increasing-subsequence](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0303-range-sum-query-immutable) |
@@ -253,6 +255,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
