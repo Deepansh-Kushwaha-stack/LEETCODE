@@ -22,6 +22,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0139-word-break](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0139-word-break) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/1189-maximum-number-of-balloons) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -93,6 +94,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0234-palindrome-linked-list) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
