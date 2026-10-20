@@ -89,6 +89,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
@@ -137,6 +138,7 @@
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0139-word-break](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0139-word-break) |
