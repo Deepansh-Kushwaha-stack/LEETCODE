@@ -136,6 +136,7 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0039-combination-sum) |
+| [0053-maximum-subarray](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0139-word-break](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0139-word-break) |
 | [0204-count-primes](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0217-contains-duplicate) |
@@ -216,6 +217,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0139-word-break) |
 | [0300-longest-increasing-subsequence](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
@@ -239,6 +241,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0053-maximum-subarray) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
