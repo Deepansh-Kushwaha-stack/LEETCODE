@@ -128,6 +128,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0009-palindrome-number) |
 | [0204-count-primes](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0204-count-primes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Deepansh-Kushwaha-stack/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
