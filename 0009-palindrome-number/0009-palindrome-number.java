@@ -1,23 +1,15 @@
 class Solution {
-    public boolean isPalindrome(int num) {
-        String s = String.valueOf(num);
-        int[] arr = new int[s.length()];
-
-        for (int i = 0; i < s.length(); i++) {
-            arr[i] = s.charAt(i) - '0';
+    public boolean isPalindrome(int x) {
+        int n = x;
+        int rev = 0;
+        while(n>0){
+            int d = n%10;
+            rev = rev*10 + d;
+            n = n/10;
         }
-
-        int n = arr.length;
-        int i=0;
-        int j = n-1;
-        while(i<=j){
-            if(arr[i] != arr[j]){
-                return false;
-            }
-            i++;
-            j--;
-            
+        if(rev == x){
+            return true;
         }
-        return true;
+        return false;
     }
 }
