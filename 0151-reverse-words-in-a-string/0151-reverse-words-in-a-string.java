@@ -7,9 +7,9 @@ class Solution {
                 continue;
             }
             if(rev.length() == 0){
-                rev = arr[i];
+                rev += arr[i];
             }else{
-                rev = rev + " " + arr[i];
+                rev += " " + arr[i];
             }
         }
         return rev;
