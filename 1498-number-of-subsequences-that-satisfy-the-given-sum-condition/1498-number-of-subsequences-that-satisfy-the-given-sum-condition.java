@@ -11,7 +11,7 @@ class Solution {
         pow[0] = 1;
 
         for (int i = 1; i < n; i++) {
-            pow[i] = (int)((2L * pow[i - 1]) % mod);
+            pow[i] = (2 * pow[i - 1]) % mod;
         }
 
         while (l <= r) {
